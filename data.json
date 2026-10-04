@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Test User",
+        "age": 21,
+        "email": "test@example.com",
+        "pin": 1111,
+        "accountNo": "TEST001",
+        "balance": 1000
+    },
+    {
+        "name": "Demo User",
+        "age": 23,
+        "email": "demo@example.com",
+        "pin": 2222,
+        "accountNo": "TEST002",
+        "balance": 500
+    }
+]
